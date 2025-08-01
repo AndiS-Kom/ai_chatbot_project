@@ -1,3 +1,6 @@
 customtkinter
 dotenv
 huggingface_hub
+transformers
+accelerate
+torch
