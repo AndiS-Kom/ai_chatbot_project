@@ -18,8 +18,11 @@ pip install -r requirments.txt
 
 Daftar dependensi:
 - `customtkinter`
-- `python-dotenv`
+- `dotenv`
 - `huggingface_hub`
+- `transformers`
+- `accelerate`
+- `torch`
 
 ## 🚀 Cara Menggunakan
 
